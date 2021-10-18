@@ -1,0 +1,11 @@
+1. Write a function that converts a binary number to decimal, don’t use ready conversion function.
+
+2. Write a function that takes a tuple where there are 15 words, the program should copy to another tuple only the words that contain the letters a and b
+
+3. We have an empty tuple that the program has to fill with 100 random elements, then the program has to move the even elements in one tuple, the odd elements in the 
+second tuple, and the elements in the third tuple that are divisible by 3. Save the received tuples to a file. The program must be done using the function.
+
+4. Write a Fibonacci function where we pass the number of months as a parameter and we have to return the number of rabbits. Answers should be recorded in a file.
+
+5. The program must generate a random number: 0, 1 or 2. If it generates 0, it must calculate the factorial of the number with for, if it generates 1, it must calculate the 
+factorial of the number while, if it generates 2, it must count the number Factorial recursively

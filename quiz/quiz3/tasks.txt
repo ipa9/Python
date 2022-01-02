@@ -1,0 +1,20 @@
+1.	The program asks us to enter the number of rows. The program should display the rows on the screen as follows (example of entering the number 6 is shown):B
+BC
+BCD
+BCDE
+BCDEF
+BCDEFG
+
+2.	The program must generate a random number from 0 to 10. If 1 is generated, the program must add 8 words to the list and display the second letter of each word on the screen. If 2 is generated, we need to enter a list of 10 items and remove all even items from this list. The received list must be printed on the screen. If 4 is generated, in this case we have to enter 6 items in the dictionary and output these items as a tuple. For example: if we have an element: {"hi": 5}, it must be output (hi, 5). If we have generated 5, we need to enter the text, divide it into words and convert it to a list.
+
+3.	 Write a function named shekvetis_gaketeba which takes a string named shekveta as a parameter. The string can contain only the following words: xachapuri, xinkali, mcvadi, kababi, salata (with space separated from each other).
+The function returns a string that counts the number of each product and displays it in the form shown in the examples (see below). If the order does not contain any product, in this case the quantity of the product will be zero. for example:
+• If the order is "xachapuri xinkali xachapuri kababi salata mcvadi salata" the function returns "xachapuri: 2 xinkali: 1 mcvadi: 1 kababi: 1 salata: 2"
+• If the order is = "xachapuri xinkali xachapuri salata mcvadi salata" "function returns" xachapuri: 2 xinkali: 1 mcvadi: 1 kababi: 0 salata: 2 "
+
+4.	. Write a class called Tuple. The class must have a constructor with tuple as parameter it must displays it on the screen. The class has a method that calculates the sum, minimum, and maximum values of the elements in the tuple. Create a class object and pass it any tuple. The, the minimum and maximum values of the tuple should appear on the screen.
+Also this class should have a method that takes all the even data from this tuple and writes it in the second tuple.
+
+5.	You have an empty set; the program must fill this set with 50 random items. In this set we have to count the sum of the elements, also we have to copy the elements of this set into the tuple and into the list. 
+
+6.	 We have an empty tuple that the program has to fill with 100 random elements, then the program has to move the even elements in one tuple, the odd elements in the second tuple, and the elements in the tuple slide that are divisible by 3. Save the received tuples to a file. The program must be done using the function.

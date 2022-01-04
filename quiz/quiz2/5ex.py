@@ -1,3 +1,5 @@
+#5. Write a function that converts a binary number to decimal. If the number is not binary the function should throw an error. Do not use the ready conversion function.
+
 def FromBinToDec(binNum):
     Binary = set(binNum)
     iferr = {'0', '1'}

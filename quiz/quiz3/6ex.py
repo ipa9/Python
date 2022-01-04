@@ -1,3 +1,7 @@
+#   6.	 We have an empty tuple that the program has to fill with 100 random elements, then the program has to move the even elements in one tuple,
+#   the odd elements in the second tuple, and the elements in the tuple slide that are divisible by 3.
+#   Save the received tuples to a file. The program must be done using the function.
+
 import random
 
 Rtuple = ()

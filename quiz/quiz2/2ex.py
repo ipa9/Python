@@ -1,3 +1,7 @@
+#2. We have the following dictionary {'a': [], 'b': [], 'c': [], 'd': []}, the program must add one random number to a, one random number to b,
+#then 4 random numbers to c and 7 random numbers to d, this must be done automatically in one for, write a function that returns: the key , 
+#which contains the most elements, and also the product of all the values.
+
 import random
 
 key = ['a', 'b', 'c', 'd']

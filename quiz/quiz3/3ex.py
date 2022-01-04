@@ -1,3 +1,10 @@
+#    3.	 Write a function named shekvetis_gaketeba which takes a string named shekveta as a parameter. The string can contain only the following words:
+#    xachapuri, xinkali, mcvadi, kababi, salata (with space separated from each other).
+#    The function returns a string that counts the number of each product and displays it in the form shown in the examples (see below). If the order does not contain any product,
+#    in this case the quantity of the product will be zero. for example:
+#    • If the order is "xachapuri xinkali xachapuri kababi salata mcvadi salata" the function returns "xachapuri: 2 xinkali: 1 mcvadi: 1 kababi: 1 salata: 2"
+#    • If the order is = "xachapuri xinkali xachapuri salata mcvadi salata" "function returns" xachapuri: 2 xinkali: 1 mcvadi: 1 kababi: 0 salata: 2 "
+
 ord = input("Enter the order: ")
 
 

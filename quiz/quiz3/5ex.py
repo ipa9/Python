@@ -1,3 +1,6 @@
+#   5.	You have an empty set; the program must fill this set with 50 random items. 
+#   In this set we have to count the sum of the elements, also we have to copy the elements of this set into the tuple and into the list. 
+
 import random
 
 Rset = set()
